@@ -8,7 +8,7 @@
 </div>  
   
 
-#### <div align="center">I'm Tan Jian Xin, A first year student studying my degree in Bachelor of Computer Science (Graphics And Multimedia Software) with Honors in University of Technology Malaysia (UTM)🚀</div>  
+#### <div align="center">I'm Tan Jian Xin</div>  
   
 
 - 🚀 A first year student studying my degree in Bachelor of Computer Science (Graphics And Multimedia Software) with Honors in University of Technology Malaysia (UTM)  
