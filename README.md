@@ -27,6 +27,8 @@
 
 <p align="left">🎒 Primary School: SJK(C) Sin Hwa<br>Location: Jalan Abdul Raof, 34200 Parit Buntar, Perak<br>Years: 2012 - 2017<br>Position: Pengawas Sesi Pagi<br><br>🏫 Secondary School: SMJK Krian<br>Location: SMJK KRIAN, Jalan Sekolah, Kampung Permatang Keling, 34200 Parit Buntar, Perak<br>Years: 2018 - 2022<br>Position held: Naib Pengerusi of Kelab Astronomi<br><br>📖 Pre-university: Foundation in UTM Space<br>Location: 81310, UTM Skudai, Johor Darul Takzim, Malaysia, 81310 UTM Skudai<br>Years: 2023 - 2024<br><br>🧠 University: Universiti Teknologi Malaysia (UTM）<br>Location: 81310, UTM Skudai, Johor Darul Takzim, Malaysia, 81310 UTM Skudai<br>Years: 2024 - now<br>Program: Bachelor of Computer Science (Graphics And Multimedia Software) with Honors</p>
 
+<br/>  
+
 ###
 
 
