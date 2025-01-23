@@ -17,7 +17,8 @@
 - 🌱 I’m currently learning C++  
   
 
-- ❓ Contact me at: tanharry252@gmail.com  
+- ❓ Contact me at: tanharry252@gmail.com
+- ✌️ Feel free to check out my e-portfolio: https://tanjianxin13.github.io/e-portfolio/</a>
   
 
 <br/>  
